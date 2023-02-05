@@ -1,5 +1,7 @@
 # Homework
 
+# Vastaus: Katsottu
+
 ## Task 1/3: Reading
 
 - [Introduction To Searching Algorithms In C++](https://www.softwaretestinghelp.com/searching-algorithms-in-cpp/)
@@ -18,3 +20,4 @@
 ## Recommended
 
 - https://www.learncpp.com/
+
